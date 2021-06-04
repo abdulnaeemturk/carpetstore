@@ -1,0 +1,5 @@
+configure database configuration and migrate
+
+and use
+
+php artisan passport:install
